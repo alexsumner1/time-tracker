@@ -10,7 +10,7 @@
   "dependencies": {
     "convert-seconds": "^1.0.1",
     "core-js": "^3.6.4",
-    "date-and-time": "^0.13.1",
+    "date-and-time": "^0.14.2",
     "seconds-converter": "^1.3.0",
     "vue": "^2.6.11",
     "vue-filter-date-format": "^1.3.1"
